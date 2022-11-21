@@ -1,35 +1,29 @@
 ---
 title: Tutor Noble
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+subtitle: Let's Learn Better Together
+image: img/tutoring.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Ready to Learn
+  text: Tired of waiting for your college-provided TA's to have time to help?
+    Struggling to understand your assignments? Need a second pair of eyes to
+    help check your work? Looking for help prepping for the SAT's and ACT's? Our
+    tutors are STEM experts that are ready and willing to help you get ahead;
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: What We Offer
+  text: "Tutor Noble is a network of high-quality engineers and other STEM
+    specialists who want to help students on their journey to academic
+    excellence. "
 products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: img/blank-gbcb6dd934_1280.png
+    text: |
+      Need help? Our tutors can...
+      •	Help you understand assignments
+      •	Guide you through SAT and ACT prep
+      •	Help check your work
+      •	Find answers to tough questions
+      •	and so much more!
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: Want to Learn More?
+  text: Check out our resource page for tips on how to use tutoring to make
+    learning easy.
 ---
