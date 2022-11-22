@@ -1,7 +1,7 @@
 ---
 title: Tutor Noble
 subtitle: Let's Learn Better Together
-image: img/tutoring.jpg
+image: img/tutor-noble-landscape-banner-1-.png
 blurb:
   heading: Ready to Learn
   text: Tired of waiting for your college-provided TA's to have time to help?
