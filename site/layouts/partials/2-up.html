@@ -7,12 +7,8 @@
       {{ range .products }}
       <div class="ph2-ns w-50-ns">
         <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
-        <!-- <p>{{.text}}</p> -->
-        <ul>
-          <li>{{.text1}}</li>
-          <li>{{.text2}}</li>
-          <li>{{.text3}}</li>
-        </ul>
+        <ul>{{.text}}</ul>
+        
       </div>
       {{ end }}
     </div>
