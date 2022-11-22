@@ -1,6 +1,6 @@
 ---
 title: Tutor Noble
-subtitle: Let's Learn Better Together
+subtitle: Learn Better Together
 image: img/tutor-noble-landscape-banner-1-.png
 blurb:
   heading: Ready to Learn
