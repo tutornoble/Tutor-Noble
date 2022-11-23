@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: img/noble-tutor.png
+logo: img/logo.svg
 contact_entries:
   - heading: Location
     text: 3153 Lynn Avenue, South San Francisco, California 94080
@@ -11,4 +11,4 @@ We’d love to get in touch with you and hear your ideas and
 questions. We strive to grow and improve constantly and your feedback
 is valuable for us.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+<h3 class="f4 b lh-title mb2">How can I get in touch?</h3>
