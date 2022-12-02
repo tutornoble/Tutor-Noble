@@ -9,15 +9,11 @@ description: We offer advanced tutoring in math, physics, and chemistry with
 intro:
   blurbs:
     - image: img/math.png
-      text: Stuck on a tough problem? Having trouble understanding new formulas? Get
-        help from our best math experts! Sign up for an appointment or submit a
-        question here.
+      text: " "
     - image: img/physics.png
-      text: Don't let physics problems weigh you down, set up an appointment with our
-        physics experts for concept walkthroughs, test prep, and more.
+      text: " "
     - image: img/chemistry.png
-      text: Got questions? Our tutors have answers! Sign up for an appointment for
-        one-on-one help with the toughest problems and chemistry concepts.
+      text: " "
   heading: What we offer
   description: We offer advanced tutoring in math, physics, and chemistry with
     experts from around the world. Choose a subject and we'll direct you to our
