@@ -15,13 +15,7 @@ intro:
     excellence. "
 products:
   - image: img/blank-gbcb6dd934_1280.png
-    text: |
-      Need help? Our tutors can...
-      •	Help you understand assignments
-      •	Guide you through SAT and ACT prep
-      •	Help check your work
-      •	Find answers to tough questions
-      •	and so much more!
+    text: "\n"
 values:
   heading: Want to Learn More?
   text: Check out our resource page for tips on how to use tutoring to make
