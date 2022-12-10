@@ -20,8 +20,8 @@ intro:
     best tutors for help with test prep, homework problems, concept mastery, and
     more.
 main:
-  heading: " highlights"
-  description: " Highlights"
+  heading: " "
+  description: " "
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
